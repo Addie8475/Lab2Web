@@ -31,3 +31,23 @@ terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browse
 Berikan penjelasan dan contohnya! 
 
 **Jawab**
+**1.**
+**2.** h1
+  - Selektor ini langsung menunjuk semua elemen h1 di halaman web
+  - Artinya setiap heading h1 akan mendapatkan style yang sama
+
+  h2
+  - Selektor ini lebih spesifik, hanya menunjuk elemen h1 yang berada di dalam elemen dengan id="intro"
+  - Tidak semua h1 terkena, hanya h1 yang berada di dalam container #intro
+
+**3. Urutan Prioritas CSS**
+1. Inline CSS → paling kuat (ditulis langsung di atribut elemen HTML).
+
+2. Internal CSS (<style> ... </style> dalam <head>).
+
+3. External CSS (file .css yang dilink ke HTML).
+
+4. Default browser stylesheet (jika tidak ada CSS lain).
+
+👉 Jadi, Inline CSS akan mengalahkan Internal maupun Eksternal, kecuali ada penggunaan !important.
+   
