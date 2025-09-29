@@ -1,17 +1,23 @@
 # Lab2Web
+
 **Dasar Web Pertama**
+
 <img width="657" height="286" alt="Dasar pertama" src="https://github.com/user-attachments/assets/72d735e2-59bf-40ac-9ebd-64f5509eeb6c" />
 
 **Perubahan Kedua**
+
 <img width="657" height="383" alt="Dasar kedua" src="https://github.com/user-attachments/assets/48c7d20b-9388-452c-9dad-7788a95307b4" />
 
 **Perubahan Ketiga**
+
 <img width="653" height="189" alt="Dasar ketiga" src="https://github.com/user-attachments/assets/3aa73dce-30c0-465a-b381-6b3a5800b1b5" />
 
 **Perubahan Keempat**
+
 <img width="657" height="166" alt="Dasar keempat" src="https://github.com/user-attachments/assets/cdc0f15c-f852-406c-9dce-5228d987b0b8" />
 
 **Perubahan Kelima**
+
 <img width="651" height="435" alt="Dasar kelima" src="https://github.com/user-attachments/assets/3880bda9-cc1d-422c-b5ff-e26d17a35a86" />
 
 **Pertanyaan dan Tugas**
@@ -31,7 +37,11 @@ terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browse
 Berikan penjelasan dan contohnya! 
 
 **Jawab**
-**1.**
+
+**1. Berikut hasil modifikasi saya**
+
+<img width="793" height="460" alt="Modifikasi" src="https://github.com/user-attachments/assets/8637a98e-1ba4-4517-a480-fe05287984eb" />
+
 **2.** h1
   - Selektor ini langsung menunjuk semua elemen h1 di halaman web
   - Artinya setiap heading h1 akan mendapatkan style yang sama
@@ -50,4 +60,5 @@ Berikan penjelasan dan contohnya!
 4. Default browser stylesheet (jika tidak ada CSS lain).
 
 👉 Jadi, Inline CSS akan mengalahkan Internal maupun Eksternal, kecuali ada penggunaan !important.
-   
+
+**4. Kalau sebuah elemen HTML memiliki ID dan Class sekaligus, dan ID maupun Class tersebut punya deklarasi CSS yang berbeda, maka yang akan ditampilkan di browser adalah style dari ID.**
