@@ -1,0 +1,50 @@
+nav {
+    background: #6e4324;
+    color:#ff9900;
+    padding: 20px;
+    border: 10px solid #855b00;
+    border-style: groove;
+    border-radius: 30px;
+}
+nav a {
+    color:hsl(0, 0%, 100%);
+    text-decoration: none;
+    padding:10px 35px;
+}
+nav .active,
+nav a:hover {
+    border-radius: 30px;
+    background: #ce7c1e
+}
+
+/* ID Select */
+#intro {
+    background: #6e4324;
+    border: 10px solid #855b00;
+    border-style: groove;
+    border-radius: 30px;
+    min-height: 30px;
+    padding: 5px;
+}
+#intro h1 {
+    text-align:center;
+    color:#ffbe89
+}
+
+
+/* Class Selector */
+.button {
+    padding: 15px 20px;
+    background: #bebcbd;
+    color: #fff;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+}
+.btn-primary {
+    background: #E42A42;
+    border-radius: 30px;
+}
+div a:hover {
+    background: #ce7c1e
+}
